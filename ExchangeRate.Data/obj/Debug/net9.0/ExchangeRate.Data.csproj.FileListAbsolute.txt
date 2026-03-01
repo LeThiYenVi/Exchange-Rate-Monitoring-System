@@ -1,0 +1,14 @@
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\bin\Debug\net9.0\ExchangeRate.Data.deps.json
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\bin\Debug\net9.0\ExchangeRate.Data.runtimeconfig.json
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\bin\Debug\net9.0\ExchangeRate.Data.dll
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\bin\Debug\net9.0\ExchangeRate.Data.pdb
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.csproj.AssemblyReference.cache
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.AssemblyInfoInputs.cache
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.AssemblyInfo.cs
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.csproj.CoreCompileInputs.cache
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.dll
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\refint\ExchangeRate.Data.dll
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.pdb
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.genruntimeconfig.cache
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ref\ExchangeRate.Data.dll
