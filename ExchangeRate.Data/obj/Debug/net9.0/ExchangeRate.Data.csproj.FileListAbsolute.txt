@@ -12,3 +12,4 @@ C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\De
 C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.pdb
 C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.genruntimeconfig.cache
 C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ref\ExchangeRate.Data.dll
+C:\Users\vi\Desktop\ki7\Exchange-Rate-Monitoring-System\ExchangeRate.Data\obj\Debug\net9.0\ExchangeRate.Data.sourcelink.json
